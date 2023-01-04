@@ -11,6 +11,6 @@ lazy val `zio-direct-s3-test` =
     ),
     libraryDependencies ++= Seq(
       "dev.zio" %% "zio" % "2.0.2",
-      "dev.zio" %% "zio-direct" % "1.0.0-RC3"
+      "dev.zio" %% "zio-direct" % "1.0.0-RC2"
     )
   )
